@@ -1,3 +1,4 @@
+#Reference: https://medium.com/google-cloud/data-catalog-hands-on-guide-search-get-lookup-with-python-82d99bfb4056
 from google.oauth2 import service_account
 from google.cloud import datacatalog
 
